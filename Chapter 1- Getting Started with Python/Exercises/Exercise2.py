@@ -1,6 +1,6 @@
-#Write a Python program to get the Python version you are using.
-import sys
-print("Python version")
-print (sys.version)
-print("Version info.")
-print (sys.version_info)
+#Write a python program to get the python version you are using.
+import sys 
+print("python version")
+print(sys.version)
+print("version info.")
+print(sys.version_info)
